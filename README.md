@@ -1,2 +1,2 @@
 # AI-website-
-help for student 
+AI web application for student  
